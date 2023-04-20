@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    width: 80%;
+    font-size: 13px;
+}
+.formula{
+    border: 0.5px solid lightgray;
+    border-radius: 5px;
+}
+
+.paracolor{    
+    width: 80%;
+    height: 60px;
+    background:#F8F8F8 ;
+    opacity: 1;
+    border: 1px solid #EDEDED;
+    border-radius: 5px;
+    position: absolute;
+    top: auto;
+    position: absolute;
+}
+.paracolor.p{
+    position: absolute;
+    top: auto;
+}
+.boolean{
+    line-height: 2px;
+}
+.formula2{
+    margin-left: -46px;
+}
